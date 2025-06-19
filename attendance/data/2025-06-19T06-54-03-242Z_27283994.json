@@ -1,0 +1,19 @@
+{
+  "user": {
+    "nrp": "27283994",
+    "name": "Xjskdkkk",
+    "unit": "tekinfo"
+  },
+  "location": {
+    "latitude": -5.3595413,
+    "longitude": 105.3072776,
+    "accuracy": 13.765999794006348,
+    "timestamp": 1750316026914
+  },
+  "zone": "Polda Authorized Zone",
+  "report": {
+    "type": "patroli",
+    "description": "Bsnsn"
+  },
+  "timestamp": "2025-06-19T06:54:02.144Z"
+}
