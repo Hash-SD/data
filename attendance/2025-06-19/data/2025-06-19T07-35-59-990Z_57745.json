@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "57745",
+    "name": "57556",
+    "unit": "tekkom"
+  },
+  "location": {
+    "latitude": -5.359574,
+    "longitude": 105.3072559,
+    "accuracy": 100,
+    "timestamp": 1750318547905
+  },
+  "zone": "Kantor TIK Polda Lampung",
+  "report": {
+    "type": "hadir",
+    "description": "ssdd"
+  },
+  "timestamp": "2025-06-19T07:35:59.990Z",
+  "files": {
+    "dataFile": "attendance/2025-06-19/data/2025-06-19T07-35-59-990Z_57745.json",
+    "photoFile": "attendance/2025-06-19/photos/2025-06-19T07-35-59-990Z_57745.jpeg",
+    "uploadedAt": "2025-06-19T07:36:05.055Z"
+  }
+}
