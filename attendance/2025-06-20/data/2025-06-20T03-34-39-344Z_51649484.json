@@ -1,0 +1,23 @@
+{
+  "user": {
+    "nrp": "51649484",
+    "name": "Gsjdjdke",
+    "unit": "tekkom"
+  },
+  "location": {
+    "latitude": -5.3595745,
+    "longitude": 105.3072683,
+    "accuracy": 15.22599983215332,
+    "timestamp": 1750390474552
+  },
+  "timestamp": "2025-06-20T03:34:39.344Z",
+  "security": {
+    "ip": "36.68.128.125",
+    "fingerprint": "412ba2894effc118ca5e15755de84959",
+    "submittedAt": "2025-06-20T03:34:40.989Z"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T03-34-39-344Z_51649484.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T03-34-39-344Z_51649484.jpeg"
+  }
+}
