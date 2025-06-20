@@ -1,0 +1,25 @@
+{
+  "user": {
+    "nrp": "292929",
+    "name": "383829",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595708,
+    "longitude": 105.3072548,
+    "accuracy": 100,
+    "timestamp": 1750383821645
+  },
+  "zone": "Kantor TIK Polda Lampung",
+  "report": {
+    "type": "hadir",
+    "description": "1)2)#("
+  },
+  "timestamp": "2025-06-20T01:43:51.019Z",
+  "ipAddress": "36.68.128.125",
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T01-43-51-019Z_292929.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T01-43-51-019Z_292929.jpeg",
+    "uploadedAt": "2025-06-20T01:43:55.179Z"
+  }
+}
