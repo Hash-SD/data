@@ -1,0 +1,23 @@
+{
+  "user": {
+    "nrp": "10102992",
+    "name": "ejjdjdd",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595708,
+    "longitude": 105.3072548,
+    "accuracy": 100,
+    "timestamp": 1750386056095
+  },
+  "timestamp": "2025-06-20T02:20:59.358Z",
+  "security": {
+    "ip": "36.68.128.125",
+    "fingerprint": "9bbc18431c04e286f70b60af42778de1",
+    "submittedAt": "2025-06-20T02:21:04.187Z"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T02-20-59-358Z_10102992.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T02-20-59-358Z_10102992.jpeg"
+  }
+}
