@@ -1,0 +1,29 @@
+{
+  "user": {
+    "nrp": "1279191",
+    "name": "Jzkakao",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.359569,
+    "longitude": 105.3072455,
+    "accuracy": 11.857999801635742,
+    "timestamp": 1750384569275
+  },
+  "zone": "Kantor TIK Polda Lampung",
+  "report": {
+    "type": "hadir",
+    "description": "Hkol"
+  },
+  "timestamp": "2025-06-20T01:56:46.652Z",
+  "ipAddress": "36.68.128.125",
+  "browserFingerprint": "TW96aWxsYS81LjAgKExpbnV4OyBBbmRy",
+  "deviceInfo": "{\"platform\":\"Linux armv81\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36\",\"language\":\"id\",\"cookieEnabled\":true,\"onLine\":true,\"screen\":{\"width\":360,\"height\":800,\"colorDepth\":24},\"timezone\":\"Asia/Jakarta\"}",
+  "sessionId": "session_1750384549347_0btogd8ml",
+  "attendanceId": "att_1750384606652_diqutv2vi",
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T01-56-46-652Z_1279191.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T01-56-46-652Z_1279191.jpeg",
+    "uploadedAt": "2025-06-20T01:56:48.040Z"
+  }
+}
