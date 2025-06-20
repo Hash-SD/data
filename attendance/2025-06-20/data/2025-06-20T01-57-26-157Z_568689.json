@@ -1,0 +1,29 @@
+{
+  "user": {
+    "nrp": "568689",
+    "name": "Lukay",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595808,
+    "longitude": 105.3072478,
+    "accuracy": 12.678000450134277,
+    "timestamp": 1750384637899
+  },
+  "zone": "Kantor TIK Polda Lampung",
+  "report": {
+    "type": "tugas_khusus",
+    "description": "Fbn"
+  },
+  "timestamp": "2025-06-20T01:57:26.157Z",
+  "ipAddress": "36.68.128.125",
+  "browserFingerprint": "TW96aWxsYS81LjAgKExpbnV4OyBBbmRy",
+  "deviceInfo": "{\"platform\":\"Linux armv81\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36\",\"language\":\"id-ID\",\"cookieEnabled\":true,\"onLine\":true,\"screen\":{\"width\":360,\"height\":800,\"colorDepth\":24},\"timezone\":\"Asia/Jakarta\"}",
+  "sessionId": "session_1750384618893_d4tzwxd5z",
+  "attendanceId": "att_1750384646157_hin3u41m2",
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T01-57-26-157Z_568689.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T01-57-26-157Z_568689.jpeg",
+    "uploadedAt": "2025-06-20T01:57:27.333Z"
+  }
+}
