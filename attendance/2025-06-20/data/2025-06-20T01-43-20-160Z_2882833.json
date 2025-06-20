@@ -1,0 +1,25 @@
+{
+  "user": {
+    "nrp": "2882833",
+    "name": "Henrswme",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595708,
+    "longitude": 105.3072548,
+    "accuracy": 100,
+    "timestamp": 1750383789456
+  },
+  "zone": "Kantor TIK Polda Lampung",
+  "report": {
+    "type": "hadir",
+    "description": "jsjas"
+  },
+  "timestamp": "2025-06-20T01:43:20.160Z",
+  "ipAddress": "36.68.128.125",
+  "files": {
+    "dataFile": "attendance/2025-06-20/data/2025-06-20T01-43-20-160Z_2882833.json",
+    "photoFile": "attendance/2025-06-20/photos/2025-06-20T01-43-20-160Z_2882833.jpeg",
+    "uploadedAt": "2025-06-20T01:43:24.520Z"
+  }
+}
