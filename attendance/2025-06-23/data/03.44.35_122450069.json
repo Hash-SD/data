@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "122450069",
+    "name": "Hermawan jatuh cinta",
+    "unit": "tekinfo"
+  },
+  "location": {
+    "latitude": -5.3595559,
+    "longitude": 105.3072851,
+    "accuracy": 11.60099983215332,
+    "timestamp": 1750650270605
+  },
+  "timestamp": "2025-06-23T03:44:35.284Z",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "e6fb863d104c10a0514f02b46bfbf3d5",
+    "submittedAt": "2025-06-23T03:44:38.002Z"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-23/data/03.44.35_122450069.json",
+    "photoFile": "attendance/2025-06-23/photos/03.44.35_122450069.jpeg",
+    "githubImageUrl": null
+  }
+}
