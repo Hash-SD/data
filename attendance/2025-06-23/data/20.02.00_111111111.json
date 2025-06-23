@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "111111111",
+    "name": "Warteg ",
+    "unit": "tekkom"
+  },
+  "location": {
+    "latitude": -5.3595682,
+    "longitude": 105.3072384,
+    "accuracy": 13.109999656677246,
+    "timestamp": 1750658505325
+  },
+  "timestamp": "2025-06-23T13:02:00.000",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "c4cd909a2c4e365573a8199cecf6b26a",
+    "submittedAt": "2025-06-23T13:02:00.000"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-23/data/20.02.00_111111111.json",
+    "photoFile": "attendance/2025-06-23/photos/20.02.00_111111111.jpeg",
+    "githubImageUrl": null
+  }
+}
