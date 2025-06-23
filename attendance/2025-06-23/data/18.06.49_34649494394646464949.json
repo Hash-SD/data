@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "34649494394646464949",
+    "name": "Mawan",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595861,
+    "longitude": 105.3072683,
+    "accuracy": 13.694000244140625,
+    "timestamp": 1750651601959
+  },
+  "timestamp": "2025-06-23T11:06:49.000",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "e6fb863d104c10a0514f02b46bfbf3d5",
+    "submittedAt": "2025-06-23T11:06:49.000"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-23/data/18.06.49_34649494394646464949.json",
+    "photoFile": "attendance/2025-06-23/photos/18.06.49_34649494394646464949.jpeg",
+    "githubImageUrl": null
+  }
+}
