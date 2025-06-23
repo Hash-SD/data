@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "946498",
+    "name": "gahahs",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595646,
+    "longitude": 105.3072782,
+    "accuracy": 100,
+    "timestamp": 1750652446330
+  },
+  "timestamp": "2025-06-23T11:20:50.000",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "bae0c5af98977ebc9051b73eb72476d9",
+    "submittedAt": "2025-06-23T11:20:50.000"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-23/data/18.20.50_946498.json",
+    "photoFile": "attendance/2025-06-23/photos/18.20.50_946498.jpeg",
+    "githubImageUrl": null
+  }
+}
