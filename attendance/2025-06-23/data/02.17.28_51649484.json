@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "51649484",
+    "name": "Hsjsks",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.3595569,
+    "longitude": 105.3072621,
+    "accuracy": 10.095000267028809,
+    "timestamp": 1750645031560
+  },
+  "timestamp": "2025-06-23T02:17:28.230Z",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "c4cd909a2c4e365573a8199cecf6b26a",
+    "submittedAt": "2025-06-23T02:17:29.651Z"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-23/data/02.17.28_51649484.json",
+    "photoFile": "attendance/2025-06-23/photos/02.17.28_51649484.jpeg",
+    "githubImageUrl": null
+  }
+}
