@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "1364987",
+    "name": "bahsbs",
+    "unit": "tekkom"
+  },
+  "location": {
+    "latitude": -5.3595636,
+    "longitude": 105.3072622,
+    "accuracy": 100,
+    "timestamp": 1750911144707
+  },
+  "timestamp": "2025-06-26T11:12:30.000",
+  "security": {
+    "ip": "36.68.131.44",
+    "fingerprint": "bae0c5af98977ebc9051b73eb72476d9",
+    "submittedAt": "2025-06-26T11:12:30.000"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-26/data/18.12.30_1364987.json",
+    "photoFile": "attendance/2025-06-26/photos/18.12.30_1364987.jpeg",
+    "githubImageUrl": null
+  }
+}
