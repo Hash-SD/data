@@ -1,0 +1,24 @@
+{
+  "user": {
+    "nrp": "122450000",
+    "name": "Dyhkkl",
+    "unit": "renmin"
+  },
+  "location": {
+    "latitude": -5.359593,
+    "longitude": 105.307274,
+    "accuracy": 11.96399974822998,
+    "timestamp": 1751252977288
+  },
+  "timestamp": "2025-06-30T10:09:41.000",
+  "security": {
+    "ip": "36.68.131.170",
+    "fingerprint": "c4cd909a2c4e365573a8199cecf6b26a",
+    "submittedAt": "2025-06-30T10:09:41.000"
+  },
+  "files": {
+    "dataFile": "attendance/2025-06-30/data/17.09.41_122450000.json",
+    "photoFile": "attendance/2025-06-30/photos/17.09.41_122450000.jpeg",
+    "githubImageUrl": null
+  }
+}
